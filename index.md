@@ -10,7 +10,12 @@
 <iframe  frameborder="no" scrolling="yes" width="650" height="650" src="ссылка на вашу страницу"></iframe>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Видео на сайт
+
+```markdown
+<iframe width="560" height="315" src="путь к видео" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 ### Jekyll Themes
 
